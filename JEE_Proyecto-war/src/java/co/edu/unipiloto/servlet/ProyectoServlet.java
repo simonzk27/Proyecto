@@ -28,6 +28,7 @@ public class ProyectoServlet extends HttpServlet {
     private ProyectoFacadeLocal proyectoFacade;
 
     /**
+     * *
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
      * methods.
      *
